@@ -1,0 +1,27 @@
+{
+  "name": "@brafton/alerts-client",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc",
+    "ngc": "ngc"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "@angular/animations": "7.2.9",
+    "@angular/common": "7.2.9",
+    "@angular/compiler": "7.2.9",
+    "@angular/core": "7.2.9",
+    "@angular/forms": "7.2.9",
+    "@angular/router": "7.2.9",
+    "core-js": "2.6.5",
+    "rxjs": "6.4.0",
+    "zone.js": "0.8.29"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.13.8",
+    "@angular/compiler-cli": "7.2.9",
+    "@types/node": "~8.9.4",
+    "ts-node": "~7.0.0",
+    "typescript": "~3.1.1"
+  }
+}
